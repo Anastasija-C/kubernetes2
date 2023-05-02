@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: nginx
-      image: anastasija-c/nginx-kubernetes
+      image: anastasijac/nginx-kubernetes
       ports:
         - containerPort: 80
